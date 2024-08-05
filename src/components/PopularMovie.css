@@ -1,0 +1,47 @@
+.latest-movies {
+    padding: 20px;
+  }
+  
+  .movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .movie-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+    width: 150px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .movie-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .movie-content {
+    padding: 10px;
+  }
+  
+  .movie-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .background:hover{
+    transition: 4s;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 10px;
+  }
+  .background{
+    transition: 4S;
+    border: 1px solid;
+  }
+  
