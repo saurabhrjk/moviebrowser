@@ -20,7 +20,7 @@ CSS: Styled components for a modern and clean user interface.
 
 # How to Run:
 
-Clone the repository: git clone https://github.com/yourusername/movie-explorer.git
+Clone the repository
 
 Navigate to the project directory: cd MovieBrowser
 
