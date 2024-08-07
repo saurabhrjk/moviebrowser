@@ -22,7 +22,7 @@ CSS: Styled components for a modern and clean user interface.
 
 Clone the repository: git clone https://github.com/yourusername/movie-explorer.git
 
-Navigate to the project directory: cd movie-explorer
+Navigate to the project directory: cd MovieBrowser
 
 Install dependencies: npm install
 
